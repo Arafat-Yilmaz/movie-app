@@ -16,7 +16,7 @@ Welcome to the Movie Application! This is a single-page application built using 
 git clone https://github.com/Arafat-Yilmaz/movie-app.git
 
 2. Navigate to the project directory:
-cd movie-application
+cd movie-app
 
 3. Install dependencies:
 npm install
